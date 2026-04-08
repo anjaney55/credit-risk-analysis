@@ -1,12 +1,12 @@
-# 🚀 Credit Risk Analysis & Default Prediction
+#  Credit Risk Analysis & Default Prediction
 
-## 📌 Problem Statement
+## Problem Statement
 Financial institutions face significant losses due to customer defaults.  
 The goal of this project is to analyze customer financial behavior and build a predictive model to identify high-risk customers.
 
 ---
 
-## 📊 Project Overview
+##  Project Overview
 This is an end-to-end data analysis and machine learning project that covers:
 
 - Data Cleaning & Preprocessing  
@@ -19,29 +19,29 @@ This is an end-to-end data analysis and machine learning project that covers:
 
 ---
 
-## 🔍 Key Insights
+##  Key Insights
 
-- 📈 **Repayment delay (max_delay)** is the strongest predictor of default risk  
-- 💳 Customers with **lower credit limits** are more likely to default  
-- 👤 **Demographic factors (age, gender)** have minimal impact  
-- 📉 Behavioral data is more reliable than static customer attributes  
+-  Repayment delay (max_delay)** is the strongest predictor of default risk  
+-  Customers with **lower credit limits** are more likely to default  
+-  Demographic factors (age, gender)** have minimal impact  
+-  Behavioral data is more reliable than static customer attributes  
 
 ---
 
-## 🤖 Model Details
+##  Model Details
 
 - Model Used: **Logistic Regression**
 - ROC-AUC Score: **0.74**
 - Accuracy: **80%**
 
-### 🚨 Key Improvement
+## Key Improvement
 - Default model recall: **22%**
 - After threshold tuning: **56%**
-- 👉 Reduced missed defaulters by ~45%
+-  Reduced missed defaulters by ~45%
 
 ---
 
-## ⚙️ Feature Engineering
+## Feature Engineering
 
 Created new risk indicators:
 
@@ -52,7 +52,7 @@ These improved model performance and interpretability.
 
 ---
 
-## 📊 Dashboard (Power BI)
+## Dashboard (Power BI)
 
 An interactive dashboard was created to visualize:
 
@@ -60,13 +60,9 @@ An interactive dashboard was created to visualize:
 - Repayment delay behavior  
 - Credit limit comparison  
 - Customer segmentation  
-
-### 📸 Dashboard Preview
-*(Add your screenshot here)*
-
 ---
 
-## 💼 Business Impact
+##  Business Impact
 
 - Improved detection of high-risk customers  
 - Reduced potential financial loss  
@@ -75,7 +71,7 @@ An interactive dashboard was created to visualize:
 
 ---
 
-## 🛠 Tools & Technologies
+## Tools & Technologies
 
 - **Python** (Pandas, NumPy, Scikit-learn)  
 - **SQL**  
