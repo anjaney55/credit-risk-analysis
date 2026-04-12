@@ -4,7 +4,6 @@
 Financial institutions face significant losses due to customer defaults.  
 The goal of this project is to analyze customer financial behavior and build a predictive model to identify high-risk customers.
 
----
 
 ##  Project Overview
 This is an end-to-end data analysis and machine learning project that covers:
@@ -17,7 +16,6 @@ This is an end-to-end data analysis and machine learning project that covers:
 - Business Insights & Recommendations  
 - Power BI Dashboard Visualization  
 
----
 
 ##  Key Insights
 
@@ -26,7 +24,6 @@ This is an end-to-end data analysis and machine learning project that covers:
 -  Demographic factors (age, gender)** have minimal impact  
 -  Behavioral data is more reliable than static customer attributes  
 
----
 
 ##  Model Details
 
@@ -39,7 +36,6 @@ This is an end-to-end data analysis and machine learning project that covers:
 - After threshold tuning: **56%**
 -  Reduced missed defaulters by ~45%
 
----
 
 ## Feature Engineering
 
